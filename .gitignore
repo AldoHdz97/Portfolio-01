@@ -1,0 +1,114 @@
+# ============================================================================
+# API KEYS & SECRETS
+# ============================================================================
+.env
+.env.local
+.env.*.local
+*.key
+
+# ============================================================================
+# INPUT DATA FILES (potentially sensitive university data)
+# ============================================================================
+Mes_Actual_2_SDMxRegion.json
+Mes_del_A_o_anterior_3_SDMxRegion.json
+Todas_las_publicaciones_con_sus_metricas_1_SDMxRegion.json
+Regiones Unificadas - Valores.csv
+
+# ============================================================================
+# GENERATED OUTPUT FILES
+# ============================================================================
+metrics_estructurado.json
+sdm_estructurado.json
+publicaciones_estructurado.json
+unified_campus_data.json
+campus_insights.json
+campus_insights_report.md
+Publicaciones_estructuradas_Top8.json
+selected_publications.json
+
+# ============================================================================
+# PYTHON
+# ============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ============================================================================
+# IDEs & EDITORS
+# ============================================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ============================================================================
+# OS FILES
+# ============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ============================================================================
+# LOGS & TEMP FILES
+# ============================================================================
+*.log
+*.tmp
+*.temp
+.cache/
+
+# ============================================================================
+# MISC
+# ============================================================================
+.crewai/
