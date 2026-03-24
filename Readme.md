@@ -130,7 +130,7 @@ Each insight is 95-100 words and includes:
 
 **Example:**
 
-> En septiembre 2025, el Campus Oklahoma mostró un desempeño satisfactorio, incrementando 86% su volumen de publicaciones, 152% las interacciones y 82% el alcance respecto al año anterior. Destacaron contenidos que combinaron nostalgia institucional y vida estudiantil auténtica: recorridos históricos del campus desde 1943, celebraciones patrias que reforzaron el orgullo mexicano, y momentos cotidianos como coffee breaks y el vibrante apoyo a Borregos. Estas narrativas generaron una conexión emocional que fortaleció el sentido de pertenencia y comunidad. Se registraron 556 comentarios durante el periodo.
+> En septiembre 2025, el Campus Oklahoma mostró un desempeño satisfactorio, incrementando 86% su volumen de publicaciones, 152% las interacciones y 82% el alcance respecto al año anterior. Destacaron contenidos que combinaron nostalgia institucional y vida estudiantil auténtica: recorridos históricos del campus desde 1951, celebraciones patrias que reforzaron el orgullo mexicano, y momentos cotidianos como coffee breaks y el vibrante apoyo a Halcones. Estas narrativas generaron una conexión emocional que fortaleció el sentido de pertenencia y comunidad. Se registraron 556 comentarios durante el periodo.
 
 ---
 
